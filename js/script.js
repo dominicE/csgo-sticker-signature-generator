@@ -2,7 +2,7 @@
 var is_ie = !!navigator.userAgent.match(/(?:MSIE |Trident\/.*; rv:)(\d+)/);
 
 /* data */
-var stickertype = ['columbus', 'dreamhack','cologne','comedy','custom'];
+var stickertype = ['columbus', 'dreamhack', 'atlanta', 'cologne', 'comedy', 'custom'];
 var stickerIndex = 0;
 var fonts = ["Indie Flower", "Shadows Into Light", "Pacifico", "Dancing Script",
     "Shadows Into Light Two", "Coming Soon", "Handlee", "Cookie",
